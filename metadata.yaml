@@ -1,0 +1,28 @@
+_repo: Georgina-of-the-Rainbows_7807
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Girls -- Juvenile fiction'
+title: Georgina of the Rainbows
+url: http://www.gutenberg.org/ebooks/7807
