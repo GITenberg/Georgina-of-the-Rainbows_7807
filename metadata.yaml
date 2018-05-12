@@ -1,4 +1,8 @@
 _repo: Georgina-of-the-Rainbows_7807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnston, Annie F. (Annie Fellows)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7807#Georgina-of-the-Rainbows
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
